@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title("AWSOME").color("red")
+streamlit.title("AWSOME")
+streamlit.header("HEADER")
+streamlit.text("TEXT")
